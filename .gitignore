@@ -1,0 +1,8 @@
+
+
+# Temporary files
+scratch.py
+spare.py
+
+# High churn files
+.idea/*
