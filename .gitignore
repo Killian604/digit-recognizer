@@ -1,8 +1,9 @@
 
 
 # Temporary files
-scratch.py
-spare.py
+scratch*
+spare.*
 
 # High churn files
 .idea/*
+*pycache*
