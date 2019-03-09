@@ -1,5 +1,8 @@
 
 
+# jupyter notebook goodies
+.ipynb_checkpoints/*
+
 # Temporary files
 scratch*
 spare.*
